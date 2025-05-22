@@ -76,8 +76,8 @@ A full-stack application for managing to-do items and summarizing them using an 
 
 ## 🌐 (Optional) Deployment
 
-Frontend deployed to Vercel:
-Backend hosted on Render: 
+Frontend deployed to Vercel: https://todosummaryassistant1.netlify.app/
+
 
 ---
 
